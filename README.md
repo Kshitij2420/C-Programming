@@ -28,7 +28,7 @@ Practice problem-solving using C
 
 🚀 How to Run the Programs
 Clone the repository:
-git clone https://github.com/your-username/C-Programming-Journey.git
+git clone https://github.com/Kshitij2420/C-Programming-Journey.git
 Navigate to the folder:
 cd C-Programming-Journey
 Compile the program:
